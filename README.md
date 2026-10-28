@@ -30,7 +30,7 @@ This project demonstrates the deployment of a secure Azure enterprise environmen
 
 ## Project Status
 
-🚧 In Progress
+🚧 Done ;)
 
 ## Goals
 
